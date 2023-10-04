@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="letra">#FFFFFFFF</color>
+    <color name="start">#280070</color>
+    <color name="end">#9E69FF</color>
+    <color name="start1">#0042FF</color>
+    <color name="end2">#000305</color>
+    <color name="stroke">#FFFFFF</color>
+</resources>
